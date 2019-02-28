@@ -1,0 +1,12 @@
+10
+insert 12
+insert 33
+insert 7
+insert 6
+insert 8
+insert 8
+delete 7
+delete 7
+insert 7
+find 7
+print

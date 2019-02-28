@@ -1,0 +1,18 @@
+10
+insert 1
+insert 8
+insert 10
+insert 3
+insert 3
+insert 16
+insert 19
+delete 16
+print
+delete 3
+insert 18
+insert 9
+insert 9
+delete 10
+insert 18
+insert 4
+print
